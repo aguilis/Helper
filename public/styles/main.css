@@ -1,0 +1,21 @@
+:root{
+  --title-color: #035755;
+  --primary-color:#FB4C47;
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+  background: #FFF8F8;
+  -webkit-font-smoothing: antialiased;
+}
+a{
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6{
+  color: var(--title-color);
+  font-family: 'Red Hat Display', sans-serif;
+}
