@@ -56,7 +56,7 @@
 
  
 
-  border-radius: 65px;
+  border-radius: 8px;
   display: flex;
 
   align-items: center;
@@ -73,13 +73,13 @@
 #page-home main a:hover{
   background-color: #C73838;
   box-shadow: inset 0px 1px 4px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 8px 87px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
 }
 #page-home main a span{
   width: 72px;
   height: 72px;
-  border-top-left-radius: 65px;
-  border-bottom-left-radius: 65px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
 
 
   background-color: rgba(0,0,0,0.08);
